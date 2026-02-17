@@ -1,4 +1,4 @@
-# recipe_finder_with_ai
+# recipe_finder_ai_chef_bot
 
 A new Flutter project.
 
